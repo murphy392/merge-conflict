@@ -9,6 +9,9 @@ Initial Function()
 feaature2()
 {
   //Sample Code for Feature 2
+  //feature2 line1
+  //feature2 line2
+  //feature2 lline3
 }
 
 Initial Security()
